@@ -1,0 +1,6 @@
+dependencies:
+- name: travelbank-common
+  repository: file://../../travelbank-common
+  version: 0.1.0
+digest: sha256:c001763081db8f4e4ecfb6c6ea543559bc2af2676b60d412f10ea5cdba078555
+generated: "2025-07-17T19:55:57.8897739+05:30"
